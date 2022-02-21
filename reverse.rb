@@ -1,0 +1,1 @@
+puts "しんぶんし".reverse
