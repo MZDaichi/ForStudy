@@ -7,5 +7,5 @@ elsif apple == "Nagano"
   puts "このリンゴは長野産です"
 
 else
-  puts "このリンゴは青森産でも長野産でもありません"
+  puts "このリンゴは青森産でも長野産でもありませんよー"
 end
